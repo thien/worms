@@ -1,0 +1,1085 @@
+Column, Loaded, Normalised, Sanitised, Coverage Percentage, Skeleton, Worm Blobs Found, Worms Found, Worms Found (Clusters), Number of Dead Worms, Worms Metadata, Ground Truth Worm Count, Worm Count Percentage, Worm Count Percentage (Clusters)
+A01, w1 & w2, True, True, 87, True, 13, 12, 14, 5, "1 - shape: 38, pattern: 46.98 = 39.35 
+ 2 - shape: 0, pattern: 40.36 = 6.05 
+ 3 - shape: 86, pattern: 40.16 = 79.12 (Dead) 
+ 4 - shape: 100, pattern: 37.06 = 90.56 (Dead) 
+ 5 - shape: 92, pattern: 60.74 = 87.31 (Dead) 
+ 6 - shape: 61, pattern: 37.16 = 57.42 
+ 7 - shape: 37, pattern: 47.09 = 38.51 
+ 8 - shape: 97, pattern: 38.83 = 88.27 (Dead) 
+ 9 - shape: 72, pattern: 50.06 = 68.71 
+ 10 - shape: 96, pattern: 63.27 = 91.09 (Dead) 
+ 11 - shape: 13, pattern: 33.27 = 16.04 
+ 12 - shape: 78, pattern: 42.01 = 72.6 
+ 13 - Cluster, May have 2 worms", 15, 80, 93
+A02, w1 & w2, True, True, 98, True, 12, 11, 15, 7, "1 - shape: 89, pattern: 51.62 = 83.39 (Dead) 
+ 2 - shape: 64, pattern: 42.73 = 60.81 
+ 3 - shape: 57, pattern: 63.22 = 57.93 
+ 4 - shape: 46, pattern: 55.71 = 47.46 
+ 5 - Cluster, May have 4 worms 
+ 6 - shape: 91, pattern: 28.08 = 81.56 (Dead) 
+ 7 - shape: 91, pattern: 56.25 = 85.79 (Dead) 
+ 8 - shape: 80, pattern: 39.28 = 73.89 
+ 9 - shape: 90, pattern: 44.56 = 83.18 (Dead) 
+ 10 - shape: 83, pattern: 45.94 = 77.44 (Dead) 
+ 11 - shape: 89, pattern: 37.86 = 81.33 (Dead) 
+ 12 - shape: 87, pattern: 45.37 = 80.76 (Dead)", 15, 73, 100
+A03, w1 & w2, True, True, 110, True, 6, 4, 11, 1, "1 - shape: 75, pattern: 46.82 = 70.77 
+ 2 - shape: 73, pattern: 44.39 = 68.71 
+ 3 - shape: 23, pattern: 39.77 = 25.52 
+ 4 - shape: 96, pattern: 46.75 = 88.61 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - Cluster, May have 5 worms", 15, 26, 73
+A04, w1 & w2, True, True, 95, True, 8, 4, 11, 4, "1 - shape: 93, pattern: 49.09 = 86.41 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 94, pattern: 48.46 = 87.17 (Dead) 
+ 6 - shape: 82, pattern: 56.89 = 78.23 (Dead) 
+ 7 - shape: 91, pattern: 45.83 = 84.22 (Dead) 
+ 8 - Cluster, May have 2 worms", 15, 26, 73
+A05, w1 & w2, True, True, 94, True, 13, 10, 14, 6, "1 - shape: 99, pattern: 37.97 = 89.85 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 60, pattern: 51.37 = 58.71 
+ 4 - shape: 58, pattern: 78.6 = 61.09 
+ 5 - shape: 88, pattern: 50.38 = 82.36 (Dead) 
+ 6 - shape: 88, pattern: 49.24 = 82.19 (Dead) 
+ 7 - shape: 70, pattern: 52.96 = 67.44 
+ 8 - shape: 88, pattern: 37.55 = 80.43 (Dead) 
+ 9 - shape: 91, pattern: 39.49 = 83.27 (Dead) 
+ 10 - Cluster, May have 2 worms 
+ 11 - shape: 21, pattern: 49.34 = 25.25 
+ 12 - Cluster, May have 1 worms 
+ 13 - shape: 93, pattern: 54.93 = 87.29 (Dead)", 15, 66, 93
+A06, w1 & w2, True, True, 90, True, 11, 10, 13, 7, "1 - shape: 87, pattern: 59.91 = 82.94 (Dead) 
+ 2 - shape: 88, pattern: 69.84 = 85.28 (Dead) 
+ 3 - shape: 93, pattern: 54.11 = 87.17 (Dead) 
+ 4 - shape: 99, pattern: 46.99 = 91.2 (Dead) 
+ 5 - shape: 84, pattern: 38.1 = 77.11 (Dead) 
+ 6 - shape: 0, pattern: 47.11 = 7.07 
+ 7 - shape: 91, pattern: 62.24 = 86.69 (Dead) 
+ 8 - shape: 63, pattern: 53.79 = 61.62 
+ 9 - Cluster, May have 3 worms 
+ 10 - shape: 95, pattern: 57.49 = 89.37 (Dead) 
+ 11 - shape: 75, pattern: 35.29 = 69.04", 15, 66, 86
+A07, w1 & w2, True, True, 87, True, 6, 3, 9, 3, "1 - shape: 94, pattern: 42.84 = 86.33 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 93, pattern: 29.58 = 83.49 (Dead) 
+ 5 - Cluster, May have 3 worms 
+ 6 - shape: 93, pattern: 45.9 = 85.94 (Dead)", 14, 21, 64
+A08, w1 & w2, True, True, 81, True, 10, 6, 11, 5, "1 - shape: 84, pattern: 75.02 = 82.65 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 79, pattern: 52.48 = 75.02 (Dead) 
+ 4 - shape: 85, pattern: 45.47 = 79.07 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - shape: 92, pattern: 42.9 = 84.64 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 71, pattern: 41.08 = 66.51 
+ 9 - shape: 96, pattern: 31.36 = 86.3 (Dead) 
+ 10 - Cluster, May have 1 worms", 15, 40, 73
+A09, w1 & w2, True, True, 94, True, 11, 6, 13, 4, "1 - shape: 92, pattern: 54.38 = 86.36 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 93, pattern: 36.99 = 84.6 (Dead) 
+ 4 - shape: 84, pattern: 38.91 = 77.24 (Dead) 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 0, pattern: 37.4 = 5.61 
+ 7 - Cluster, May have 2 worms 
+ 8 - Cluster, May have 2 worms 
+ 9 - Cluster, May have 1 worms 
+ 10 - shape: 67, pattern: 39.73 = 62.91 
+ 11 - shape: 102, pattern: 52.42 = 94.56 (Dead)", 15, 40, 86
+A10, w1 & w2, True, True, 93, True, 12, 9, 14, 8, "1 - Cluster, May have 2 worms 
+ 2 - shape: 98, pattern: 50.29 = 90.84 (Dead) 
+ 3 - shape: 98, pattern: 46.16 = 90.22 (Dead) 
+ 4 - shape: 98, pattern: 49.82 = 90.77 (Dead) 
+ 5 - shape: 93, pattern: 66.32 = 89.0 (Dead) 
+ 6 - shape: 67, pattern: 65.65 = 66.8 
+ 7 - shape: 95, pattern: 43.56 = 87.28 (Dead) 
+ 8 - shape: 91, pattern: 35.01 = 82.6 (Dead) 
+ 9 - shape: 93, pattern: 39.49 = 84.97 (Dead) 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 78, pattern: 61.33 = 75.5 (Dead) 
+ 12 - Cluster, May have 2 worms", 15, 60, 93
+A11, w1 & w2, True, True, 85, True, 12, 9, 14, 7, "1 - Cluster, May have 2 worms 
+ 2 - shape: 92, pattern: 35.33 = 83.5 (Dead) 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 94, pattern: 60.97 = 89.05 (Dead) 
+ 5 - shape: 87, pattern: 50.95 = 81.59 (Dead) 
+ 6 - shape: 77, pattern: 34.83 = 70.67 
+ 7 - shape: 68, pattern: 48.66 = 65.1 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 97, pattern: 39.28 = 88.34 (Dead) 
+ 10 - shape: 87, pattern: 55.19 = 82.23 (Dead) 
+ 11 - shape: 81, pattern: 63.29 = 78.34 (Dead) 
+ 12 - shape: 88, pattern: 47.69 = 81.95 (Dead)", 15, 60, 93
+A12, w1 & w2, True, True, 70, True, 10, 7, 12, 3, "1 - shape: 28, pattern: 50.2 = 31.33 
+ 2 - shape: 103, pattern: 85.89 = 100.43 (Dead) 
+ 3 - shape: 38, pattern: 44.73 = 39.01 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 83, pattern: 56.33 = 79.0 (Dead) 
+ 6 - shape: 77, pattern: 42.05 = 71.76 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 76, pattern: 47.97 = 71.8 
+ 9 - shape: 95, pattern: 50.86 = 88.38 (Dead) 
+ 10 - Cluster, May have 2 worms", 15, 46, 80
+A13, w1 & w2, True, True, 88, True, 11, 9, 14, 9, "1 - shape: 92, pattern: 48.89 = 85.53 (Dead) 
+ 2 - shape: 99, pattern: 46.44 = 91.12 (Dead) 
+ 3 - shape: 97, pattern: 57.41 = 91.06 (Dead) 
+ 4 - shape: 100, pattern: 45.81 = 91.87 (Dead) 
+ 5 - shape: 98, pattern: 61.12 = 92.47 (Dead) 
+ 6 - shape: 96, pattern: 53.41 = 89.61 (Dead) 
+ 7 - shape: 96, pattern: 58.69 = 90.4 (Dead) 
+ 8 - Cluster, May have 3 worms 
+ 9 - shape: 99, pattern: 47.7 = 91.3 (Dead) 
+ 10 - shape: 99, pattern: 48.44 = 91.42 (Dead) 
+ 11 - Cluster, May have 2 worms", 14, 64, 100
+A14, w1 & w2, True, True, 87, True, 14, 13, 14, 12, "1 - shape: 98, pattern: 47.55 = 90.43 (Dead) 
+ 2 - shape: 67, pattern: 27.93 = 61.14 
+ 3 - shape: 85, pattern: 39.63 = 78.19 (Dead) 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 99, pattern: 39.08 = 90.01 (Dead) 
+ 6 - shape: 97, pattern: 73.98 = 93.55 (Dead) 
+ 7 - shape: 90, pattern: 40.99 = 82.65 (Dead) 
+ 8 - shape: 93, pattern: 41.76 = 85.31 (Dead) 
+ 9 - shape: 97, pattern: 58.09 = 91.16 (Dead) 
+ 10 - shape: 99, pattern: 38.79 = 89.97 (Dead) 
+ 11 - shape: 91, pattern: 40.94 = 83.49 (Dead) 
+ 12 - shape: 99, pattern: 44.45 = 90.82 (Dead) 
+ 13 - shape: 96, pattern: 51.78 = 89.37 (Dead) 
+ 14 - shape: 91, pattern: 53.6 = 85.39 (Dead)", 15, 86, 93
+A15, w1 & w2, True, True, 101, True, 12, 9, 13, 9, "1 - shape: 94, pattern: 52.28 = 87.74 (Dead) 
+ 2 - shape: 89, pattern: 49.61 = 83.09 (Dead) 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 94, pattern: 44.21 = 86.53 (Dead) 
+ 5 - shape: 97, pattern: 42.64 = 88.85 (Dead) 
+ 6 - shape: 90, pattern: 41.27 = 82.69 (Dead) 
+ 7 - shape: 98, pattern: 55.26 = 91.59 (Dead) 
+ 8 - shape: 86, pattern: 43.52 = 79.63 (Dead) 
+ 9 - Cluster, May have 2 worms 
+ 10 - shape: 91, pattern: 48.35 = 84.6 (Dead) 
+ 11 - shape: 91, pattern: 48.97 = 84.7 (Dead) 
+ 12 - Cluster, May have 1 worms", 15, 60, 86
+A16, w1 & w2, True, True, 100, True, 10, 5, 11, 5, "1 - shape: 95, pattern: 58.23 = 89.48 (Dead) 
+ 2 - shape: 92, pattern: 51.22 = 85.88 (Dead) 
+ 3 - Cluster, May have 1 worms 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 92, pattern: 39.63 = 84.14 (Dead) 
+ 6 - shape: 95, pattern: 50.29 = 88.29 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - Cluster, May have 2 worms 
+ 9 - Cluster, May have 1 worms 
+ 10 - shape: 93, pattern: 29.08 = 83.41 (Dead)", 13, 38, 84
+A17, w1 & w2, True, True, 91, True, 12, 10, 13, 10, "1 - shape: 99, pattern: 38.33 = 89.9 (Dead) 
+ 2 - shape: 97, pattern: 45.51 = 89.28 (Dead) 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 91, pattern: 41.75 = 83.61 (Dead) 
+ 5 - shape: 96, pattern: 37.51 = 87.23 (Dead) 
+ 6 - shape: 98, pattern: 41.34 = 89.5 (Dead) 
+ 7 - shape: 98, pattern: 50.05 = 90.81 (Dead) 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 93, pattern: 53.38 = 87.06 (Dead) 
+ 10 - shape: 99, pattern: 45.91 = 91.04 (Dead) 
+ 11 - shape: 99, pattern: 38.05 = 89.86 (Dead) 
+ 12 - shape: 97, pattern: 44.67 = 89.15 (Dead)", 14, 71, 92
+A18, w1 & w2, True, True, 95, True, 10, 7, 12, 7, "1 - shape: 95, pattern: 39.27 = 86.64 (Dead) 
+ 2 - shape: 94, pattern: 82.06 = 92.21 (Dead) 
+ 3 - shape: 99, pattern: 44.98 = 90.9 (Dead) 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 97, pattern: 39.85 = 88.43 (Dead) 
+ 6 - shape: 98, pattern: 70.82 = 93.92 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 95, pattern: 51.58 = 88.49 (Dead) 
+ 9 - shape: 97, pattern: 42.23 = 88.78 (Dead) 
+ 10 - Cluster, May have 2 worms", 14, 50, 85
+A19, w1 & w2, True, True, 99, True, 8, 4, 11, 4, "1 - shape: 90, pattern: 42.97 = 82.95 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 99, pattern: 34.86 = 89.38 (Dead) 
+ 4 - Cluster, May have 3 worms 
+ 5 - shape: 96, pattern: 39.81 = 87.57 (Dead) 
+ 6 - Cluster, May have 2 worms 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 97, pattern: 35.67 = 87.8 (Dead)", 12, 33, 91
+A20, w1 & w2, True, True, 102, True, 13, 10, 13, 9, "1 - shape: 88, pattern: 43.23 = 81.28 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 77, pattern: 20.45 = 68.52 
+ 4 - shape: 94, pattern: 36.1 = 85.31 (Dead) 
+ 5 - shape: 97, pattern: 46.56 = 89.43 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 97, pattern: 47.01 = 89.5 (Dead) 
+ 9 - shape: 92, pattern: 32.69 = 83.1 (Dead) 
+ 10 - shape: 99, pattern: 42.39 = 90.51 (Dead) 
+ 11 - shape: 92, pattern: 37.44 = 83.82 (Dead) 
+ 12 - shape: 89, pattern: 36.17 = 81.08 (Dead) 
+ 13 - shape: 97, pattern: 45.68 = 89.3 (Dead)", 14, 71, 92
+A21, w1 & w2, True, True, 102, True, 9, 4, 12, 4, "1 - shape: 90, pattern: 36.84 = 82.03 (Dead) 
+ 2 - shape: 98, pattern: 49.91 = 90.79 (Dead) 
+ 3 - Cluster, May have 2 worms 
+ 4 - Cluster, May have 1 worms 
+ 5 - Cluster, May have 1 worms 
+ 6 - Cluster, May have 1 worms 
+ 7 - Cluster, May have 3 worms 
+ 8 - shape: 92, pattern: 34.89 = 83.43 (Dead) 
+ 9 - shape: 98, pattern: 50.76 = 90.91 (Dead)", 14, 28, 85
+A22, w1 & w2, True, True, 106, True, 9, 6, 13, 6, "1 - shape: 94, pattern: 58.92 = 88.74 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 100, pattern: 52.89 = 92.93 (Dead) 
+ 4 - Cluster, May have 3 worms 
+ 5 - Cluster, May have 3 worms 
+ 6 - shape: 99, pattern: 12.43 = 86.01 (Dead) 
+ 7 - shape: 100, pattern: 32.06 = 89.81 (Dead) 
+ 8 - shape: 96, pattern: 39.28 = 87.49 (Dead) 
+ 9 - shape: 99, pattern: 38.33 = 89.9 (Dead)", 15, 40, 86
+A23, w1 & w2, True, True, 96, True, 8, 5, 9, 5, "1 - shape: 98, pattern: 42.02 = 89.6 (Dead) 
+ 2 - shape: 90, pattern: 43.68 = 83.05 (Dead) 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 95, pattern: 36.13 = 86.17 (Dead) 
+ 5 - shape: 90, pattern: 39.05 = 82.36 (Dead) 
+ 6 - shape: 95, pattern: 48.15 = 87.97 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - Cluster, May have 1 worms", 12, 41, 75
+A24, w1 & w2, True, True, 101, True, 11, 6, 13, 6, "1 - Cluster, May have 1 worms 
+ 2 - shape: 99, pattern: 42.18 = 90.48 (Dead) 
+ 3 - shape: 102, pattern: 42.58 = 93.09 (Dead) 
+ 4 - shape: 95, pattern: 40.15 = 86.77 (Dead) 
+ 5 - shape: 98, pattern: 33.55 = 88.33 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - Cluster, May have 1 worms 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 90, pattern: 40.65 = 82.6 (Dead) 
+ 10 - shape: 98, pattern: 38.21 = 89.03 (Dead) 
+ 11 - Cluster, May have 2 worms", 14, 42, 92
+B01, w1 & w2, True, True, 87, True, 11, 8, 13, 7, "1 - shape: 82, pattern: 54.8 = 77.92 (Dead) 
+ 2 - shape: 77, pattern: 54.77 = 73.67 
+ 3 - shape: 91, pattern: 34.78 = 82.57 (Dead) 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 95, pattern: 64.12 = 90.37 (Dead) 
+ 6 - Cluster, May have 2 worms 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 97, pattern: 48.99 = 89.8 (Dead) 
+ 9 - shape: 94, pattern: 39.39 = 85.81 (Dead) 
+ 10 - shape: 85, pattern: 61.89 = 81.53 (Dead) 
+ 11 - shape: 96, pattern: 43.1 = 88.06 (Dead)", 15, 53, 86
+B02, w1 & w2, True, True, 93, True, 13, 10, 15, 6, "1 - shape: 100, pattern: 53.65 = 93.05 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 72, pattern: 37.73 = 66.86 
+ 4 - shape: 78, pattern: 46.5 = 73.27 
+ 5 - shape: 86, pattern: 20.5 = 76.17 (Dead) 
+ 6 - shape: 87, pattern: 59.94 = 82.94 (Dead) 
+ 7 - shape: 99, pattern: 44.84 = 90.88 (Dead) 
+ 8 - Cluster, May have 2 worms 
+ 9 - Cluster, May have 2 worms 
+ 10 - shape: 46, pattern: 44.36 = 45.75 
+ 11 - shape: 47, pattern: 35.94 = 45.34 
+ 12 - shape: 87, pattern: 34.95 = 79.19 (Dead) 
+ 13 - shape: 87, pattern: 39.62 = 79.89 (Dead)", 15, 66, 100
+B03, w1 & w2, True, True, 97, True, 11, 8, 12, 5, "1 - shape: 93, pattern: 53.62 = 87.09 (Dead) 
+ 2 - shape: 66, pattern: 51.45 = 63.82 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 99, pattern: 43.78 = 90.72 (Dead) 
+ 5 - shape: 88, pattern: 55.27 = 83.09 (Dead) 
+ 6 - shape: 60, pattern: 35.85 = 56.38 
+ 7 - Cluster, May have 1 worms 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 90, pattern: 40.31 = 82.55 (Dead) 
+ 10 - shape: 16, pattern: 32.17 = 18.43 
+ 11 - shape: 92, pattern: 46.3 = 85.14 (Dead)", 15, 53, 80
+B04, w1 & w2, True, True, 90, True, 9, 5, 10, 4, "1 - Cluster, May have 2 worms 
+ 2 - shape: 92, pattern: 52.51 = 86.08 (Dead) 
+ 3 - shape: 89, pattern: 76.91 = 87.19 (Dead) 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 95, pattern: 35.82 = 86.12 (Dead) 
+ 6 - shape: 89, pattern: 45.15 = 82.42 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 67, pattern: 49.88 = 64.43", 15, 33, 66
+B05, w1 & w2, True, True, 93, True, 12, 10, 13, 5, "1 - shape: 47, pattern: 51.83 = 47.72 
+ 2 - shape: 89, pattern: 49.13 = 83.02 (Dead) 
+ 3 - shape: 54, pattern: 60.9 = 55.03 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 84, pattern: 51.38 = 79.11 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 29, pattern: 48.28 = 31.89 
+ 8 - shape: 9, pattern: 55.88 = 16.03 
+ 9 - shape: 88, pattern: 46.59 = 81.79 (Dead) 
+ 10 - shape: 74, pattern: 48.02 = 70.1 
+ 11 - shape: 91, pattern: 52.48 = 85.22 (Dead) 
+ 12 - shape: 92, pattern: 59.23 = 87.08 (Dead)", 14, 71, 92
+B06, w1 & w2, True, True, 79, True, 11, 7, 13, 2, "1 - Cluster, May have 2 worms 
+ 2 - shape: 51, pattern: 38.59 = 49.14 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 0, pattern: 33.16 = 4.97 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 81, pattern: 51.27 = 76.54 (Dead) 
+ 7 - shape: 87, pattern: 72.91 = 84.89 (Dead) 
+ 8 - shape: 54, pattern: 45.41 = 52.71 
+ 9 - Cluster, May have 1 worms 
+ 10 - shape: 76, pattern: 42.74 = 71.01 
+ 11 - shape: 76, pattern: 66.18 = 74.53", 15, 46, 86
+B07, w1 & w2, True, True, 79, True, 10, 8, 13, 4, "1 - shape: 98, pattern: 40.54 = 89.38 (Dead) 
+ 2 - shape: 50, pattern: 40.36 = 48.55 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 67, pattern: 73.01 = 67.9 
+ 5 - shape: 65, pattern: 49.94 = 62.74 
+ 6 - shape: 81, pattern: 84.61 = 81.54 (Dead) 
+ 7 - shape: 83, pattern: 53.39 = 78.56 (Dead) 
+ 8 - shape: 92, pattern: 65.62 = 88.04 (Dead) 
+ 9 - shape: 80, pattern: 44.32 = 74.65 
+ 10 - Cluster, May have 3 worms", 15, 53, 86
+B08, w1 & w2, True, True, 91, True, 13, 10, 14, 4, "1 - Cluster, May have 1 worms 
+ 2 - shape: 94, pattern: 46.79 = 86.92 (Dead) 
+ 3 - shape: 74, pattern: 58.19 = 71.63 
+ 4 - shape: 50, pattern: 39.05 = 48.36 
+ 5 - shape: 89, pattern: 38.38 = 81.41 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 0, pattern: 36.75 = 5.51 
+ 8 - shape: 88, pattern: 51.64 = 82.55 (Dead) 
+ 9 - shape: 82, pattern: 43.53 = 76.23 (Dead) 
+ 10 - Cluster, May have 2 worms 
+ 11 - shape: 34, pattern: 40.85 = 35.03 
+ 12 - shape: 54, pattern: 35.74 = 51.26 
+ 13 - shape: 79, pattern: 42.02 = 73.45", 15, 66, 93
+B09, w1 & w2, True, True, 86, True, 12, 10, 14, 5, "1 - shape: 92, pattern: 45.97 = 85.1 (Dead) 
+ 2 - shape: 76, pattern: 58.18 = 73.33 
+ 3 - shape: 98, pattern: 42.06 = 89.61 (Dead) 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 80, pattern: 47.35 = 75.1 (Dead) 
+ 6 - shape: 89, pattern: 39.1 = 81.51 (Dead) 
+ 7 - shape: 71, pattern: 51.13 = 68.02 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 76, pattern: 49.13 = 71.97 
+ 10 - shape: 86, pattern: 54.28 = 81.24 (Dead) 
+ 11 - shape: 71, pattern: 51.58 = 68.09 
+ 12 - shape: 12, pattern: 63.09 = 19.66", 14, 71, 100
+B10, w1 & w2, True, True, 90, True, 11, 8, 13, 6, "1 - Cluster, May have 2 worms 
+ 2 - Cluster, May have 2 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 90, pattern: 38.12 = 82.22 (Dead) 
+ 5 - shape: 93, pattern: 52.37 = 86.91 (Dead) 
+ 6 - shape: 79, pattern: 52.79 = 75.07 (Dead) 
+ 7 - shape: 87, pattern: 56.27 = 82.39 (Dead) 
+ 8 - shape: 89, pattern: 46.49 = 82.62 (Dead) 
+ 9 - shape: 77, pattern: 49.19 = 72.83 
+ 10 - shape: 68, pattern: 54.77 = 66.02 
+ 11 - shape: 90, pattern: 83.94 = 89.09 (Dead)", 14, 57, 92
+B11, w1 & w2, True, True, 89, True, 14, 13, 15, 9, "1 - shape: 50, pattern: 23.51 = 46.03 
+ 2 - shape: 62, pattern: 63.17 = 62.18 
+ 3 - shape: 93, pattern: 55.12 = 87.32 (Dead) 
+ 4 - shape: 94, pattern: 67.04 = 89.96 (Dead) 
+ 5 - shape: 98, pattern: 43.46 = 89.82 (Dead) 
+ 6 - shape: 86, pattern: 59.03 = 81.95 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 94, pattern: 58.23 = 88.63 (Dead) 
+ 9 - shape: 93, pattern: 50.13 = 86.57 (Dead) 
+ 10 - shape: 90, pattern: 40.73 = 82.61 (Dead) 
+ 11 - shape: 35, pattern: 53.53 = 37.78 
+ 12 - shape: 69, pattern: 61.18 = 67.83 
+ 13 - shape: 87, pattern: 62.65 = 83.35 (Dead) 
+ 14 - shape: 85, pattern: 45.91 = 79.14 (Dead)", 14, 92, 107
+B12, w1 & w2, True, True, 70, True, 8, 3, 17, 2, "1 - Cluster, May have 3 worms 
+ 2 - shape: 90, pattern: 31.69 = 81.25 (Dead) 
+ 3 - Cluster, May have 3 worms 
+ 4 - shape: 98, pattern: 58.99 = 92.15 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - Cluster, May have 4 worms 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 59, pattern: 52.79 = 58.07", 15, 20, 113
+B13, w1 & w2, True, True, 82, True, 11, 10, 11, 9, "1 - Cluster, May have 1 worms 
+ 2 - shape: 97, pattern: 33.82 = 87.52 (Dead) 
+ 3 - shape: 97, pattern: 44.46 = 89.12 (Dead) 
+ 4 - shape: 97, pattern: 86.52 = 95.43 (Dead) 
+ 5 - shape: 99, pattern: 46.74 = 91.16 (Dead) 
+ 6 - shape: 98, pattern: 50.17 = 90.83 (Dead) 
+ 7 - shape: 33, pattern: 27.6 = 32.19 
+ 8 - shape: 93, pattern: 48.54 = 86.33 (Dead) 
+ 9 - shape: 99, pattern: 53.44 = 92.17 (Dead) 
+ 10 - shape: 98, pattern: 53.27 = 91.29 (Dead) 
+ 11 - shape: 94, pattern: 49.84 = 87.38 (Dead)", 13, 76, 84
+B14, w1 & w2, True, True, 87, True, 11, 9, 12, 9, "1 - shape: 98, pattern: 39.3 = 89.19 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - shape: 90, pattern: 34.29 = 81.64 (Dead) 
+ 4 - shape: 86, pattern: 41.31 = 79.3 (Dead) 
+ 5 - shape: 99, pattern: 58.14 = 92.87 (Dead) 
+ 6 - shape: 96, pattern: 58.41 = 90.36 (Dead) 
+ 7 - shape: 96, pattern: 45.72 = 88.46 (Dead) 
+ 8 - shape: 90, pattern: 40.22 = 82.53 (Dead) 
+ 9 - shape: 95, pattern: 44.05 = 87.36 (Dead) 
+ 10 - shape: 94, pattern: 47.66 = 87.05 (Dead) 
+ 11 - Cluster, May have 1 worms", 12, 75, 100
+B15, w1 & w2, True, True, 92, True, 10, 8, 11, 7, "1 - shape: 94, pattern: 57.82 = 88.57 (Dead) 
+ 2 - shape: 68, pattern: 47.07 = 64.86 
+ 3 - shape: 99, pattern: 49.38 = 91.56 (Dead) 
+ 4 - shape: 99, pattern: 42.85 = 90.58 (Dead) 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 89, pattern: 54.66 = 83.85 (Dead) 
+ 7 - shape: 88, pattern: 45.63 = 81.64 (Dead) 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 93, pattern: 41.15 = 85.22 (Dead) 
+ 10 - shape: 94, pattern: 39.11 = 85.77 (Dead)", 13, 61, 84
+B16, w1 & w2, True, True, 95, True, 13, 11, 13, 11, "1 - shape: 96, pattern: 48.13 = 88.82 (Dead) 
+ 2 - shape: 89, pattern: 49.02 = 83.0 (Dead) 
+ 3 - shape: 97, pattern: 38.83 = 88.27 (Dead) 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 91, pattern: 50.02 = 84.85 (Dead) 
+ 6 - shape: 92, pattern: 32.18 = 83.03 (Dead) 
+ 7 - shape: 85, pattern: 45.65 = 79.1 (Dead) 
+ 8 - shape: 97, pattern: 42.13 = 88.77 (Dead) 
+ 9 - shape: 91, pattern: 40.39 = 83.41 (Dead) 
+ 10 - shape: 95, pattern: 37.59 = 86.39 (Dead) 
+ 11 - shape: 93, pattern: 50.75 = 86.66 (Dead) 
+ 12 - Cluster, May have 1 worms 
+ 13 - shape: 95, pattern: 54.98 = 89.0 (Dead)", 14, 78, 92
+B17, w1 & w2, True, True, 93, True, 9, 7, 10, 7, "1 - shape: 94, pattern: 50.45 = 87.47 (Dead) 
+ 2 - shape: 99, pattern: 39.93 = 90.14 (Dead) 
+ 3 - shape: 99, pattern: 42.07 = 90.46 (Dead) 
+ 4 - shape: 93, pattern: 49.96 = 86.54 (Dead) 
+ 5 - shape: 95, pattern: 37.11 = 86.32 (Dead) 
+ 6 - shape: 96, pattern: 43.8 = 88.17 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 98, pattern: 48.66 = 90.6 (Dead) 
+ 9 - Cluster, May have 1 worms", 12, 58, 83
+B18, w1 & w2, True, True, 99, True, 14, 13, 14, 13, "1 - shape: 93, pattern: 38.57 = 84.84 (Dead) 
+ 2 - shape: 96, pattern: 30.49 = 86.17 (Dead) 
+ 3 - shape: 98, pattern: 42.94 = 89.74 (Dead) 
+ 4 - shape: 92, pattern: 51.85 = 85.98 (Dead) 
+ 5 - shape: 98, pattern: 43.13 = 89.77 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 96, pattern: 42.9 = 88.03 (Dead) 
+ 8 - shape: 98, pattern: 37.26 = 88.89 (Dead) 
+ 9 - shape: 96, pattern: 35.83 = 86.97 (Dead) 
+ 10 - shape: 94, pattern: 42.81 = 86.32 (Dead) 
+ 11 - shape: 96, pattern: 47.14 = 88.67 (Dead) 
+ 12 - shape: 90, pattern: 41.81 = 82.77 (Dead) 
+ 13 - shape: 98, pattern: 51.15 = 90.97 (Dead) 
+ 14 - shape: 97, pattern: 37.15 = 88.02 (Dead)", 13, 100, 107
+B19, w1 & w2, True, True, 101, True, 12, 9, 13, 8, "1 - shape: 95, pattern: 60.87 = 89.88 (Dead) 
+ 2 - shape: 71, pattern: 66.09 = 70.26 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 95, pattern: 37.65 = 86.4 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - shape: 98, pattern: 42.39 = 89.66 (Dead) 
+ 7 - shape: 98, pattern: 38.16 = 89.02 (Dead) 
+ 8 - shape: 99, pattern: 38.69 = 89.95 (Dead) 
+ 9 - shape: 91, pattern: 47.06 = 84.41 (Dead) 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 95, pattern: 29.46 = 85.17 (Dead) 
+ 12 - shape: 101, pattern: 31.66 = 90.6 (Dead)", 14, 64, 92
+B20, w1 & w2, True, True, 133, True, 11, 7, 13, 7, "1 - Cluster, May have 2 worms 
+ 2 - shape: 89, pattern: 37.88 = 81.33 (Dead) 
+ 3 - shape: 97, pattern: 39.67 = 88.4 (Dead) 
+ 4 - shape: 94, pattern: 42.25 = 86.24 (Dead) 
+ 5 - Cluster, May have 1 worms 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 97, pattern: 56.53 = 90.93 (Dead) 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 91, pattern: 43.87 = 83.93 (Dead) 
+ 10 - shape: 98, pattern: 35.38 = 88.61 (Dead) 
+ 11 - shape: 98, pattern: 47.84 = 90.48 (Dead)", 14, 50, 92
+B21, w1 & w2, True, True, 98, True, 11, 9, 12, 9, "1 - Cluster, May have 2 worms 
+ 2 - shape: 99, pattern: 38.84 = 89.98 (Dead) 
+ 3 - shape: 96, pattern: 31.47 = 86.32 (Dead) 
+ 4 - shape: 92, pattern: 36.19 = 83.63 (Dead) 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 94, pattern: 37.1 = 85.46 (Dead) 
+ 7 - shape: 92, pattern: 32.36 = 83.05 (Dead) 
+ 8 - shape: 99, pattern: 34.69 = 89.35 (Dead) 
+ 9 - shape: 96, pattern: 35.2 = 86.88 (Dead) 
+ 10 - shape: 99, pattern: 31.59 = 88.89 (Dead) 
+ 11 - shape: 94, pattern: 37.35 = 85.5 (Dead)", 13, 69, 92
+B22, w1 & w2, True, True, 114, True, 16, 15, 17, 14, "1 - shape: 88, pattern: 39.29 = 80.69 (Dead) 
+ 2 - shape: 90, pattern: 41.75 = 82.76 (Dead) 
+ 3 - shape: 95, pattern: 39.57 = 86.69 (Dead) 
+ 4 - shape: 96, pattern: 35.6 = 86.94 (Dead) 
+ 5 - shape: 91, pattern: 45.89 = 84.23 (Dead) 
+ 6 - shape: 98, pattern: 36.03 = 88.7 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 73, pattern: 40.9 = 68.19 
+ 9 - shape: 89, pattern: 41.13 = 81.82 (Dead) 
+ 10 - shape: 94, pattern: 35.12 = 85.17 (Dead) 
+ 11 - shape: 89, pattern: 66.34 = 85.6 (Dead) 
+ 12 - shape: 97, pattern: 46.76 = 89.46 (Dead) 
+ 13 - shape: 94, pattern: 38.87 = 85.73 (Dead) 
+ 14 - shape: 94, pattern: 36.76 = 85.41 (Dead) 
+ 15 - shape: 95, pattern: 37.06 = 86.31 (Dead) 
+ 16 - shape: 101, pattern: 38.61 = 91.64 (Dead)", 15, 100, 113
+B23, w1 & w2, True, True, 99, True, 11, 10, 13, 10, "1 - shape: 98, pattern: 50.27 = 90.84 (Dead) 
+ 2 - shape: 98, pattern: 42.51 = 89.68 (Dead) 
+ 3 - shape: 100, pattern: 44.86 = 91.73 (Dead) 
+ 4 - shape: 97, pattern: 41.86 = 88.73 (Dead) 
+ 5 - shape: 100, pattern: 33.07 = 89.96 (Dead) 
+ 6 - shape: 95, pattern: 33.53 = 85.78 (Dead) 
+ 7 - shape: 90, pattern: 31.17 = 81.18 (Dead) 
+ 8 - shape: 91, pattern: 32.18 = 82.18 (Dead) 
+ 9 - shape: 81, pattern: 42.17 = 75.18 (Dead) 
+ 10 - shape: 93, pattern: 42.1 = 85.36 (Dead) 
+ 11 - Cluster, May have 3 worms", 14, 71, 92
+B24, w1 & w2, True, True, 101, True, 11, 8, 12, 8, "1 - Cluster, May have 1 worms 
+ 2 - shape: 96, pattern: 46.63 = 88.59 (Dead) 
+ 3 - shape: 98, pattern: 47.73 = 90.46 (Dead) 
+ 4 - shape: 97, pattern: 44.18 = 89.08 (Dead) 
+ 5 - shape: 99, pattern: 44.57 = 90.84 (Dead) 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 90, pattern: 38.83 = 82.32 (Dead) 
+ 8 - shape: 99, pattern: 44.27 = 90.79 (Dead) 
+ 9 - shape: 95, pattern: 40.92 = 86.89 (Dead) 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 86, pattern: 39.71 = 79.06 (Dead)", 13, 61, 92
+C01, w1 & w2, True, True, 90, True, 12, 10, 13, 5, "1 - shape: 99, pattern: 33.57 = 89.19 (Dead) 
+ 2 - shape: 70, pattern: 64.56 = 69.18 
+ 3 - shape: 81, pattern: 61.21 = 78.03 (Dead) 
+ 4 - shape: 68, pattern: 52.47 = 65.67 
+ 5 - shape: 69, pattern: 55.06 = 66.91 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 40, pattern: 46.17 = 40.93 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 78, pattern: 37.65 = 71.95 
+ 10 - shape: 89, pattern: 40.88 = 81.78 (Dead) 
+ 11 - shape: 93, pattern: 53.5 = 87.08 (Dead) 
+ 12 - shape: 96, pattern: 78.43 = 93.36 (Dead)", 15, 66, 86
+C02, w1 & w2, True, True, 99, True, 13, 10, 13, 4, "1 - shape: 74, pattern: 59.82 = 71.87 
+ 2 - shape: 67, pattern: 62.0 = 66.25 
+ 3 - shape: 80, pattern: 50.9 = 75.64 (Dead) 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 94, pattern: 44.39 = 86.56 (Dead) 
+ 6 - shape: 66, pattern: 64.09 = 65.71 
+ 7 - shape: 86, pattern: 72.22 = 83.93 (Dead) 
+ 8 - shape: 95, pattern: 41.85 = 87.03 (Dead) 
+ 9 - shape: 58, pattern: 36.91 = 54.84 
+ 10 - Cluster, May have 1 worms 
+ 11 - Cluster, May have 1 worms 
+ 12 - shape: 34, pattern: 34.49 = 34.07 
+ 13 - shape: 78, pattern: 52.83 = 74.22", 14, 71, 92
+C03, w1 & w2, True, True, 84, True, 11, 9, 12, 5, "1 - shape: 0, pattern: 40.33 = 6.05 
+ 2 - shape: 80, pattern: 54.65 = 76.2 (Dead) 
+ 3 - shape: 89, pattern: 62.69 = 85.05 (Dead) 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 96, pattern: 52.23 = 89.43 (Dead) 
+ 6 - shape: 21, pattern: 72.35 = 28.7 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 58, pattern: 30.84 = 53.93 
+ 9 - shape: 77, pattern: 40.99 = 71.6 
+ 10 - shape: 83, pattern: 48.1 = 77.77 (Dead) 
+ 11 - shape: 87, pattern: 56.74 = 82.46 (Dead)", 15, 60, 80
+C04, w1 & w2, True, True, 81, True, 11, 7, 12, 3, "1 - shape: 80, pattern: 56.42 = 76.46 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 0, pattern: 41.44 = 6.22 
+ 6 - shape: 89, pattern: 56.93 = 84.19 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 80, pattern: 43.52 = 74.53 
+ 9 - shape: 82, pattern: 39.95 = 75.69 (Dead) 
+ 10 - shape: 73, pattern: 38.45 = 67.82 
+ 11 - shape: 37, pattern: 46.6 = 38.44", 15, 46, 80
+C05, w1 & w2, True, True, 96, True, 12, 10, 15, 5, "1 - shape: 95, pattern: 65.07 = 90.51 (Dead) 
+ 2 - shape: 0, pattern: 39.31 = 5.9 
+ 3 - shape: 88, pattern: 51.51 = 82.53 (Dead) 
+ 4 - shape: 0, pattern: 43.12 = 6.47 
+ 5 - shape: 99, pattern: 47.94 = 91.34 (Dead) 
+ 6 - shape: 56, pattern: 48.21 = 54.83 
+ 7 - shape: 33, pattern: 45.16 = 34.82 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 82, pattern: 41.19 = 75.88 (Dead) 
+ 10 - shape: 93, pattern: 38.42 = 84.81 (Dead) 
+ 11 - shape: 40, pattern: 35.66 = 39.35 
+ 12 - Cluster, May have 3 worms", 14, 71, 107
+C06, w1 & w2, True, True, 94, True, 14, 13, 14, 9, "1 - shape: 82, pattern: 38.85 = 75.53 (Dead) 
+ 2 - shape: 57, pattern: 47.88 = 55.63 
+ 3 - shape: 96, pattern: 45.69 = 88.45 (Dead) 
+ 4 - shape: 98, pattern: 48.27 = 90.54 (Dead) 
+ 5 - shape: 69, pattern: 46.25 = 65.59 
+ 6 - shape: 87, pattern: 55.67 = 82.3 (Dead) 
+ 7 - shape: 20, pattern: 74.32 = 28.15 
+ 8 - shape: 87, pattern: 43.55 = 80.48 (Dead) 
+ 9 - shape: 79, pattern: 49.33 = 74.55 
+ 10 - shape: 98, pattern: 34.92 = 88.54 (Dead) 
+ 11 - shape: 84, pattern: 52.39 = 79.26 (Dead) 
+ 12 - shape: 90, pattern: 38.32 = 82.25 (Dead) 
+ 13 - Cluster, May have 1 worms 
+ 14 - shape: 77, pattern: 69.59 = 75.89 (Dead)", 15, 86, 93
+C07, w1 & w2, True, True, 85, True, 9, 7, 11, 3, "1 - shape: 39, pattern: 43.19 = 39.63 
+ 2 - shape: 82, pattern: 49.79 = 77.17 (Dead) 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 64, pattern: 42.96 = 60.84 
+ 5 - shape: 0, pattern: 33.27 = 4.99 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 90, pattern: 54.39 = 84.66 (Dead) 
+ 8 - shape: 100, pattern: 41.48 = 91.22 (Dead) 
+ 9 - shape: 0, pattern: 34.72 = 5.21", 14, 50, 78
+C08, w1 & w2, True, True, 90, True, 12, 10, 13, 5, "1 - shape: 74, pattern: 47.04 = 69.96 
+ 2 - Cluster, May have 2 worms 
+ 3 - shape: 48, pattern: 55.03 = 49.05 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 42, pattern: 39.37 = 41.61 
+ 6 - shape: 93, pattern: 47.94 = 86.24 (Dead) 
+ 7 - shape: 81, pattern: 51.74 = 76.61 (Dead) 
+ 8 - shape: 47, pattern: 49.77 = 47.42 
+ 9 - shape: 24, pattern: 68.91 = 30.74 
+ 10 - shape: 83, pattern: 44.27 = 77.19 (Dead) 
+ 11 - shape: 85, pattern: 36.98 = 77.8 (Dead) 
+ 12 - shape: 84, pattern: 37.6 = 77.04 (Dead)", 15, 66, 86
+C09, w1 & w2, True, True, 89, True, 10, 8, 12, 5, "1 - shape: 82, pattern: 21.92 = 72.99 
+ 2 - shape: 82, pattern: 69.23 = 80.08 (Dead) 
+ 3 - shape: 96, pattern: 54.46 = 89.77 (Dead) 
+ 4 - shape: 57, pattern: 49.1 = 55.81 
+ 5 - Cluster, May have 2 worms 
+ 6 - shape: 84, pattern: 44.54 = 78.08 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 96, pattern: 58.46 = 90.37 (Dead) 
+ 9 - shape: 95, pattern: 49.45 = 88.17 (Dead) 
+ 10 - shape: 62, pattern: 47.88 = 59.88", 15, 53, 80
+C10, w1 & w2, True, True, 91, True, 13, 10, 17, 5, "1 - shape: 95, pattern: 43.41 = 87.26 (Dead) 
+ 2 - shape: 95, pattern: 37.35 = 86.35 (Dead) 
+ 3 - shape: 85, pattern: 31.86 = 77.03 (Dead) 
+ 4 - shape: 0, pattern: 35.75 = 5.36 
+ 5 - shape: 79, pattern: 46.23 = 74.08 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 95, pattern: 60.07 = 89.76 (Dead) 
+ 8 - shape: 65, pattern: 44.47 = 61.92 
+ 9 - shape: 70, pattern: 65.13 = 69.27 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 98, pattern: 72.21 = 94.13 (Dead) 
+ 12 - Cluster, May have 4 worms 
+ 13 - shape: 62, pattern: 49.7 = 60.15", 15, 66, 113
+C11, w1 & w2, True, True, 66, True, 11, 10, 13, 7, "1 - shape: 91, pattern: 52.84 = 85.28 (Dead) 
+ 2 - shape: 86, pattern: 40.45 = 79.17 (Dead) 
+ 3 - shape: 47, pattern: 95.84 = 54.33 
+ 4 - shape: 57, pattern: 55.95 = 56.84 
+ 5 - Cluster, May have 3 worms 
+ 6 - shape: 91, pattern: 44.32 = 84.0 (Dead) 
+ 7 - shape: 82, pattern: 50.12 = 77.22 (Dead) 
+ 8 - shape: 91, pattern: 53.68 = 85.4 (Dead) 
+ 9 - shape: 78, pattern: 47.79 = 73.47 
+ 10 - shape: 80, pattern: 55.2 = 76.28 (Dead) 
+ 11 - shape: 99, pattern: 68.34 = 94.4 (Dead)", 14, 71, 92
+C12, w1 & w2, True, True, 79, True, 11, 7, 16, 5, "1 - shape: 90, pattern: 43.62 = 83.04 (Dead) 
+ 2 - Cluster, May have 3 worms 
+ 3 - Cluster, May have 3 worms 
+ 4 - shape: 84, pattern: 61.84 = 80.68 (Dead) 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 83, pattern: 62.1 = 79.86 (Dead) 
+ 7 - shape: 68, pattern: 47.63 = 64.94 
+ 8 - shape: 86, pattern: 49.4 = 80.51 (Dead) 
+ 9 - shape: 71, pattern: 51.47 = 68.07 
+ 10 - Cluster, May have 2 worms 
+ 11 - shape: 94, pattern: 55.25 = 88.19 (Dead)", 15, 46, 106
+C13, False
+C14, False
+C15, w1 & w2, True, True, 91, True, 11, 9, 12, 8, "1 - shape: 98, pattern: 76.87 = 94.83 (Dead) 
+ 2 - shape: 84, pattern: 44.01 = 78.0 (Dead) 
+ 3 - shape: 91, pattern: 47.73 = 84.51 (Dead) 
+ 4 - shape: 101, pattern: 44.39 = 92.51 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - shape: 98, pattern: 43.22 = 89.78 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 97, pattern: 38.39 = 88.21 (Dead) 
+ 9 - shape: 74, pattern: 34.27 = 68.04 
+ 10 - shape: 98, pattern: 38.49 = 89.07 (Dead) 
+ 11 - shape: 99, pattern: 35.86 = 89.53 (Dead)", 13, 69, 92
+C16, w1 & w2, True, True, 95, True, 8, 3, 11, 3, "1 - shape: 91, pattern: 35.4 = 82.66 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - Cluster, May have 3 worms 
+ 5 - shape: 95, pattern: 43.17 = 87.23 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 92, pattern: 45.86 = 85.08 (Dead) 
+ 8 - Cluster, May have 1 worms", 14, 21, 78
+C17, w1 & w2, True, True, 108, True, 8, 6, 12, 6, "1 - shape: 94, pattern: 39.92 = 85.89 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - shape: 94, pattern: 44.09 = 86.51 (Dead) 
+ 4 - shape: 90, pattern: 38.64 = 82.3 (Dead) 
+ 5 - shape: 98, pattern: 53.02 = 91.25 (Dead) 
+ 6 - shape: 96, pattern: 41.85 = 87.88 (Dead) 
+ 7 - shape: 92, pattern: 69.13 = 88.57 (Dead) 
+ 8 - Cluster, May have 4 worms", 13, 46, 92
+C18, w1 & w2, True, True, 93, True, 11, 9, 12, 9, "1 - shape: 98, pattern: 39.8 = 89.27 (Dead) 
+ 2 - shape: 99, pattern: 43.57 = 90.69 (Dead) 
+ 3 - shape: 98, pattern: 34.88 = 88.53 (Dead) 
+ 4 - shape: 99, pattern: 65.12 = 93.92 (Dead) 
+ 5 - shape: 95, pattern: 34.73 = 85.96 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 94, pattern: 31.65 = 84.65 (Dead) 
+ 8 - shape: 97, pattern: 34.79 = 87.67 (Dead) 
+ 9 - shape: 94, pattern: 45.96 = 86.79 (Dead) 
+ 10 - shape: 98, pattern: 46.94 = 90.34 (Dead) 
+ 11 - Cluster, May have 2 worms", 13, 69, 92
+C19, w1 & w2, True, True, 96, True, 12, 10, 13, 8, "1 - shape: 75, pattern: 44.19 = 70.38 
+ 2 - shape: 74, pattern: 74.54 = 74.08 
+ 3 - shape: 98, pattern: 37.78 = 88.97 (Dead) 
+ 4 - shape: 98, pattern: 35.38 = 88.61 (Dead) 
+ 5 - shape: 98, pattern: 41.87 = 89.58 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 93, pattern: 34.2 = 84.18 (Dead) 
+ 8 - shape: 94, pattern: 37.81 = 85.57 (Dead) 
+ 9 - Cluster, May have 2 worms 
+ 10 - shape: 91, pattern: 49.11 = 84.72 (Dead) 
+ 11 - shape: 101, pattern: 57.22 = 94.43 (Dead) 
+ 12 - shape: 96, pattern: 41.95 = 87.89 (Dead)", 14, 71, 92
+C20, w1 & w2, True, True, 114, True, 11, 6, 13, 6, "1 - Cluster, May have 1 worms 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 99, pattern: 34.16 = 89.27 (Dead) 
+ 4 - shape: 96, pattern: 42.72 = 88.01 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 96, pattern: 45.32 = 88.4 (Dead) 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 98, pattern: 39.13 = 89.17 (Dead) 
+ 10 - shape: 85, pattern: 39.82 = 78.22 (Dead) 
+ 11 - shape: 92, pattern: 65.28 = 87.99 (Dead)", 15, 40, 86
+C21, w1 & w2, True, True, 119, True, 11, 7, 13, 7, "1 - shape: 94, pattern: 48.21 = 87.13 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 89, pattern: 40.56 = 81.73 (Dead) 
+ 4 - shape: 94, pattern: 54.35 = 88.05 (Dead) 
+ 5 - Cluster, May have 2 worms 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 91, pattern: 29.24 = 81.74 (Dead) 
+ 8 - shape: 100, pattern: 37.08 = 90.56 (Dead) 
+ 9 - shape: 96, pattern: 43.39 = 88.11 (Dead) 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 94, pattern: 40.36 = 85.95 (Dead)", 11, 63, 118
+C22, w1 & w2, True, True, 94, True, 11, 8, 13, 8, "1 - shape: 96, pattern: 38.77 = 87.42 (Dead) 
+ 2 - shape: 96, pattern: 38.24 = 87.34 (Dead) 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 97, pattern: 39.43 = 88.36 (Dead) 
+ 5 - shape: 97, pattern: 46.12 = 89.37 (Dead) 
+ 6 - shape: 97, pattern: 34.89 = 87.68 (Dead) 
+ 7 - shape: 96, pattern: 38.48 = 87.37 (Dead) 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 97, pattern: 36.17 = 87.88 (Dead) 
+ 10 - Cluster, May have 2 worms 
+ 11 - shape: 94, pattern: 39.96 = 85.89 (Dead)", 13, 61, 100
+C23, w1 & w2, True, True, 92, True, 11, 8, 11, 8, "1 - shape: 99, pattern: 44.54 = 90.83 (Dead) 
+ 2 - shape: 93, pattern: 39.39 = 84.96 (Dead) 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 99, pattern: 34.33 = 89.3 (Dead) 
+ 5 - shape: 101, pattern: 35.61 = 91.19 (Dead) 
+ 6 - shape: 94, pattern: 34.02 = 85.0 (Dead) 
+ 7 - shape: 97, pattern: 39.7 = 88.41 (Dead) 
+ 8 - shape: 96, pattern: 31.64 = 86.35 (Dead) 
+ 9 - Cluster, May have 1 worms 
+ 10 - shape: 89, pattern: 36.73 = 81.16 (Dead) 
+ 11 - Cluster, May have 1 worms", 13, 61, 84
+C24, w1 & w2, True, True, 93, True, 12, 8, 14, 8, "1 - Cluster, May have 2 worms 
+ 2 - shape: 94, pattern: 49.07 = 87.26 (Dead) 
+ 3 - shape: 97, pattern: 40.49 = 88.52 (Dead) 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 95, pattern: 54.29 = 88.89 (Dead) 
+ 6 - shape: 91, pattern: 27.4 = 81.46 (Dead) 
+ 7 - shape: 96, pattern: 39.31 = 87.5 (Dead) 
+ 8 - shape: 100, pattern: 35.55 = 90.33 (Dead) 
+ 9 - shape: 98, pattern: 33.17 = 88.28 (Dead) 
+ 10 - shape: 99, pattern: 34.99 = 89.4 (Dead) 
+ 11 - Cluster, May have 2 worms 
+ 12 - Cluster, May have 1 worms", 15, 53, 93
+D01, w1 & w2, True, True, 96, True, 12, 11, 13, 7, "1 - shape: 80, pattern: 46.23 = 74.93 
+ 2 - shape: 97, pattern: 60.41 = 91.51 (Dead) 
+ 3 - shape: 87, pattern: 61.77 = 83.22 (Dead) 
+ 4 - shape: 86, pattern: 55.05 = 81.36 (Dead) 
+ 5 - shape: 40, pattern: 36.68 = 39.5 
+ 6 - shape: 92, pattern: 40.27 = 84.24 (Dead) 
+ 7 - shape: 102, pattern: 58.77 = 95.52 (Dead) 
+ 8 - shape: 86, pattern: 64.53 = 82.78 (Dead) 
+ 9 - shape: 28, pattern: 41.84 = 30.08 
+ 10 - Cluster, May have 2 worms 
+ 11 - shape: 62, pattern: 33.14 = 57.67 
+ 12 - shape: 85, pattern: 35.53 = 77.58 (Dead)", 15, 73, 86
+D02, w1 & w2, True, True, 82, True, 9, 6, 12, 1, "1 - shape: 72, pattern: 36.72 = 66.71 
+ 2 - Cluster, May have 2 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - Cluster, May have 3 worms 
+ 5 - shape: 50, pattern: 44.87 = 49.23 
+ 6 - shape: 42, pattern: 38.36 = 41.45 
+ 7 - shape: 81, pattern: 34.43 = 74.01 
+ 8 - shape: 0, pattern: 36.77 = 5.52 
+ 9 - shape: 93, pattern: 33.87 = 84.13 (Dead)", 15, 40, 80
+D03, w1 & w2, True, True, 102, True, 11, 8, 14, 5, "1 - shape: 0, pattern: 41.3 = 6.19 
+ 2 - shape: 98, pattern: 40.38 = 89.36 (Dead) 
+ 3 - shape: 86, pattern: 47.64 = 80.25 (Dead) 
+ 4 - shape: 91, pattern: 42.74 = 83.76 (Dead) 
+ 5 - shape: 96, pattern: 60.58 = 90.69 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 73, pattern: 57.49 = 70.67 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 75, pattern: 41.9 = 70.03 
+ 10 - shape: 88, pattern: 42.47 = 81.17 (Dead) 
+ 11 - Cluster, May have 3 worms", 15, 53, 93
+D04, w1 & w2, True, True, 96, True, 12, 10, 14, 6, "1 - shape: 58, pattern: 87.75 = 62.46 
+ 2 - shape: 96, pattern: 40.86 = 87.73 (Dead) 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 93, pattern: 60.99 = 88.2 (Dead) 
+ 5 - shape: 91, pattern: 30.69 = 81.95 (Dead) 
+ 6 - shape: 90, pattern: 73.79 = 87.57 (Dead) 
+ 7 - shape: 86, pattern: 45.37 = 79.91 (Dead) 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 89, pattern: 55.98 = 84.05 (Dead) 
+ 10 - shape: 61, pattern: 43.97 = 58.45 
+ 11 - shape: 33, pattern: 54.23 = 36.18 
+ 12 - shape: 0, pattern: 38.43 = 5.76", 15, 66, 93
+D05, w1 & w2, True, True, 97, True, 13, 11, 13, 8, "1 - shape: 99, pattern: 70.28 = 94.69 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 63, pattern: 47.84 = 60.73 
+ 4 - shape: 80, pattern: 49.4 = 75.41 (Dead) 
+ 5 - shape: 90, pattern: 61.65 = 85.75 (Dead) 
+ 6 - shape: 0, pattern: 48.13 = 7.22 
+ 7 - shape: 94, pattern: 72.97 = 90.85 (Dead) 
+ 8 - shape: 97, pattern: 76.47 = 93.92 (Dead) 
+ 9 - shape: 94, pattern: 46.58 = 86.89 (Dead) 
+ 10 - shape: 58, pattern: 31.33 = 54.0 
+ 11 - shape: 91, pattern: 46.14 = 84.27 (Dead) 
+ 12 - Cluster, May have 1 worms 
+ 13 - shape: 90, pattern: 44.96 = 83.24 (Dead)", 15, 73, 86
+D06, w1 & w2, True, True, 90, True, 12, 9, 12, 6, "1 - Cluster, May have 1 worms 
+ 2 - shape: 93, pattern: 59.78 = 88.02 (Dead) 
+ 3 - shape: 94, pattern: 48.84 = 87.23 (Dead) 
+ 4 - shape: 92, pattern: 61.0 = 87.35 (Dead) 
+ 5 - shape: 82, pattern: 53.67 = 77.75 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - shape: 92, pattern: 59.02 = 87.05 (Dead) 
+ 8 - Cluster, May have 1 worms 
+ 9 - shape: 81, pattern: 40.91 = 74.99 
+ 10 - shape: 61, pattern: 48.93 = 59.19 
+ 11 - shape: 76, pattern: 47.96 = 71.79 
+ 12 - shape: 80, pattern: 47.56 = 75.13 (Dead)", 15, 60, 80
+D07, w1 & w2, True, True, 77, True, 12, 10, 13, 6, "1 - shape: 80, pattern: 43.54 = 74.53 
+ 2 - shape: 82, pattern: 56.87 = 78.23 (Dead) 
+ 3 - shape: 80, pattern: 42.04 = 74.31 
+ 4 - shape: 81, pattern: 61.01 = 78.0 (Dead) 
+ 5 - shape: 70, pattern: 49.58 = 66.94 
+ 6 - shape: 61, pattern: 78.46 = 63.62 
+ 7 - shape: 86, pattern: 47.26 = 80.19 (Dead) 
+ 8 - shape: 83, pattern: 43.21 = 77.03 (Dead) 
+ 9 - shape: 84, pattern: 32.94 = 76.34 (Dead) 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 84, pattern: 46.14 = 78.32 (Dead) 
+ 12 - Cluster, May have 2 worms", 15, 66, 86
+D08, w1 & w2, True, True, 90, True, 12, 10, 13, 3, "1 - shape: 86, pattern: 53.52 = 81.13 (Dead) 
+ 2 - shape: 96, pattern: 58.22 = 90.33 (Dead) 
+ 3 - shape: 81, pattern: 36.49 = 74.32 
+ 4 - shape: 21, pattern: 50.44 = 25.42 
+ 5 - shape: 20, pattern: 50.99 = 24.65 
+ 6 - shape: 66, pattern: 53.6 = 64.14 
+ 7 - shape: 58, pattern: 53.03 = 57.25 
+ 8 - shape: 99, pattern: 31.54 = 88.88 (Dead) 
+ 9 - Cluster, May have 2 worms 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 0, pattern: 32.03 = 4.8 
+ 12 - shape: 76, pattern: 44.4 = 71.26", 14, 71, 92
+D09, w1 & w2, True, True, 88, True, 12, 10, 13, 6, "1 - shape: 59, pattern: 47.41 = 57.26 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 82, pattern: 42.2 = 76.03 (Dead) 
+ 4 - shape: 70, pattern: 44.65 = 66.2 
+ 5 - shape: 98, pattern: 76.31 = 94.75 (Dead) 
+ 6 - shape: 91, pattern: 37.92 = 83.04 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 95, pattern: 56.82 = 89.27 (Dead) 
+ 9 - shape: 53, pattern: 48.81 = 52.37 
+ 10 - shape: 70, pattern: 58.76 = 68.31 
+ 11 - shape: 80, pattern: 53.99 = 76.1 (Dead) 
+ 12 - shape: 85, pattern: 66.04 = 82.16 (Dead)", 14, 71, 92
+D10, w1 & w2, True, True, 77, True, 11, 8, 13, 6, "1 - shape: 98, pattern: 71.6 = 94.04 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - Cluster, May have 2 worms 
+ 4 - shape: 31, pattern: 43.45 = 32.87 
+ 5 - shape: 99, pattern: 43.45 = 90.67 (Dead) 
+ 6 - shape: 89, pattern: 49.31 = 83.05 (Dead) 
+ 7 - Cluster, May have 1 worms 
+ 8 - shape: 86, pattern: 44.83 = 79.82 (Dead) 
+ 9 - shape: 78, pattern: 52.81 = 74.22 
+ 10 - shape: 90, pattern: 49.56 = 83.93 (Dead) 
+ 11 - shape: 86, pattern: 42.32 = 79.45 (Dead)", 15, 53, 86
+D11, w1 & w2, True, True, 87, True, 14, 13, 16, 8, "1 - shape: 74, pattern: 34.27 = 68.04 
+ 2 - shape: 94, pattern: 55.69 = 88.25 (Dead) 
+ 3 - shape: 31, pattern: 30.78 = 30.97 
+ 4 - shape: 0, pattern: 35.67 = 5.35 
+ 5 - shape: 86, pattern: 41.85 = 79.38 (Dead) 
+ 6 - shape: 87, pattern: 54.36 = 82.1 (Dead) 
+ 7 - shape: 87, pattern: 36.22 = 79.38 (Dead) 
+ 8 - shape: 76, pattern: 55.89 = 72.98 
+ 9 - shape: 58, pattern: 44.45 = 55.97 
+ 10 - shape: 90, pattern: 57.26 = 85.09 (Dead) 
+ 11 - shape: 97, pattern: 45.41 = 89.26 (Dead) 
+ 12 - Cluster, May have 3 worms 
+ 13 - shape: 91, pattern: 51.08 = 85.01 (Dead) 
+ 14 - shape: 91, pattern: 38.78 = 83.17 (Dead)", 15, 86, 106
+D12, w1 & w2, True, True, 80, True, 12, 10, 13, 7, "1 - shape: 96, pattern: 43.01 = 88.05 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 87, pattern: 61.83 = 83.22 (Dead) 
+ 4 - shape: 90, pattern: 49.68 = 83.95 (Dead) 
+ 5 - shape: 8, pattern: 54.94 = 15.04 
+ 6 - shape: 92, pattern: 45.46 = 85.02 (Dead) 
+ 7 - shape: 50, pattern: 38.95 = 48.34 
+ 8 - shape: 96, pattern: 39.97 = 87.6 (Dead) 
+ 9 - Cluster, May have 2 worms 
+ 10 - shape: 56, pattern: 33.66 = 52.65 
+ 11 - shape: 85, pattern: 35.16 = 77.52 (Dead) 
+ 12 - shape: 90, pattern: 45.02 = 83.25 (Dead)", 15, 66, 86
+D13, w1 & w2, True, True, 92, True, 12, 11, 12, 9, "1 - shape: 90, pattern: 44.03 = 83.1 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 96, pattern: 48.8 = 88.92 (Dead) 
+ 4 - shape: 71, pattern: 28.39 = 64.61 
+ 5 - shape: 91, pattern: 48.82 = 84.67 (Dead) 
+ 6 - shape: 94, pattern: 44.0 = 86.5 (Dead) 
+ 7 - shape: 99, pattern: 42.8 = 90.57 (Dead) 
+ 8 - shape: 88, pattern: 45.74 = 81.66 (Dead) 
+ 9 - shape: 99, pattern: 72.57 = 95.04 (Dead) 
+ 10 - shape: 97, pattern: 52.49 = 90.32 (Dead) 
+ 11 - shape: 0, pattern: 48.68 = 7.3 
+ 12 - shape: 89, pattern: 44.82 = 82.37 (Dead)", 13, 84, 92
+D14, w1 & w2, True, True, 91, True, 13, 13, 13, 11, "1 - shape: 98, pattern: 47.02 = 90.35 (Dead) 
+ 2 - shape: 79, pattern: 38.18 = 72.88 
+ 3 - shape: 99, pattern: 49.53 = 91.58 (Dead) 
+ 4 - shape: 97, pattern: 40.23 = 88.48 (Dead) 
+ 5 - shape: 99, pattern: 37.66 = 89.8 (Dead) 
+ 6 - shape: 105, pattern: 42.79 = 95.67 (Dead) 
+ 7 - shape: 94, pattern: 28.12 = 84.12 (Dead) 
+ 8 - shape: 98, pattern: 37.99 = 89.0 (Dead) 
+ 9 - shape: 96, pattern: 32.93 = 86.54 (Dead) 
+ 10 - shape: 96, pattern: 29.66 = 86.05 (Dead) 
+ 11 - shape: 99, pattern: 53.6 = 92.19 (Dead) 
+ 12 - shape: 93, pattern: 37.14 = 84.62 (Dead) 
+ 13 - shape: 67, pattern: 30.07 = 61.46", 13, 100, 100
+D15, w1 & w2, True, True, 95, True, 12, 11, 12, 11, "1 - shape: 98, pattern: 57.05 = 91.86 (Dead) 
+ 2 - shape: 97, pattern: 28.13 = 86.67 (Dead) 
+ 3 - shape: 94, pattern: 46.28 = 86.84 (Dead) 
+ 4 - shape: 97, pattern: 43.06 = 88.91 (Dead) 
+ 5 - shape: 96, pattern: 25.11 = 85.37 (Dead) 
+ 6 - shape: 94, pattern: 49.16 = 87.27 (Dead) 
+ 7 - shape: 85, pattern: 30.0 = 76.75 (Dead) 
+ 8 - shape: 98, pattern: 36.38 = 88.76 (Dead) 
+ 9 - shape: 95, pattern: 40.88 = 86.88 (Dead) 
+ 10 - shape: 103, pattern: 42.97 = 94.0 (Dead) 
+ 11 - shape: 91, pattern: 55.77 = 85.72 (Dead) 
+ 12 - Cluster, May have 1 worms", 11, 100, 109
+D16, w1 & w2, True, True, 92, True, 12, 9, 14, 9, "1 - shape: 85, pattern: 34.59 = 77.44 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 94, pattern: 46.8 = 86.92 (Dead) 
+ 5 - shape: 100, pattern: 38.45 = 90.77 (Dead) 
+ 6 - shape: 96, pattern: 30.69 = 86.2 (Dead) 
+ 7 - shape: 99, pattern: 38.82 = 89.97 (Dead) 
+ 8 - shape: 98, pattern: 38.64 = 89.1 (Dead) 
+ 9 - shape: 98, pattern: 47.44 = 90.42 (Dead) 
+ 10 - shape: 99, pattern: 92.97 = 98.1 (Dead) 
+ 11 - shape: 86, pattern: 39.73 = 79.06 (Dead) 
+ 12 - Cluster, May have 2 worms", 13, 69, 107
+D17, w1 & w2, True, True, 97, True, 9, 5, 12, 5, "1 - shape: 99, pattern: 36.97 = 89.7 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - Cluster, May have 3 worms 
+ 4 - shape: 89, pattern: 34.36 = 80.8 (Dead) 
+ 5 - shape: 98, pattern: 40.16 = 89.32 (Dead) 
+ 6 - Cluster, May have 1 worms 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 99, pattern: 48.01 = 91.35 (Dead) 
+ 9 - shape: 98, pattern: 44.15 = 89.92 (Dead)", 13, 38, 92
+D18, w1 & w2, True, True, 105, True, 12, 12, 12, 12, "1 - shape: 93, pattern: 59.97 = 88.05 (Dead) 
+ 2 - shape: 93, pattern: 25.62 = 82.89 (Dead) 
+ 3 - shape: 92, pattern: 42.94 = 84.64 (Dead) 
+ 4 - shape: 96, pattern: 37.27 = 87.19 (Dead) 
+ 5 - shape: 93, pattern: 44.35 = 85.7 (Dead) 
+ 6 - shape: 98, pattern: 29.46 = 87.72 (Dead) 
+ 7 - shape: 97, pattern: 39.1 = 88.31 (Dead) 
+ 8 - shape: 95, pattern: 28.61 = 85.04 (Dead) 
+ 9 - shape: 96, pattern: 39.73 = 87.56 (Dead) 
+ 10 - shape: 100, pattern: 50.54 = 92.58 (Dead) 
+ 11 - shape: 101, pattern: 43.74 = 92.41 (Dead) 
+ 12 - shape: 96, pattern: 37.11 = 87.17 (Dead)", 11, 109, 109
+D19, w1 & w2, True, True, 99, True, 11, 9, 11, 9, "1 - Cluster, May have 1 worms 
+ 2 - shape: 100, pattern: 43.53 = 91.53 (Dead) 
+ 3 - shape: 92, pattern: 41.32 = 84.4 (Dead) 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 98, pattern: 46.5 = 90.27 (Dead) 
+ 6 - shape: 98, pattern: 40.37 = 89.36 (Dead) 
+ 7 - shape: 92, pattern: 37.89 = 83.88 (Dead) 
+ 8 - shape: 97, pattern: 51.03 = 90.1 (Dead) 
+ 9 - shape: 95, pattern: 37.93 = 86.44 (Dead) 
+ 10 - shape: 97, pattern: 40.97 = 88.6 (Dead) 
+ 11 - shape: 99, pattern: 66.08 = 94.06 (Dead)", 11, 81, 100
+D20, w1 & w2, True, True, 95, True, 11, 9, 13, 8, "1 - shape: 97, pattern: 45.04 = 89.21 (Dead) 
+ 2 - Cluster, May have 2 worms 
+ 3 - shape: 91, pattern: 38.23 = 83.08 (Dead) 
+ 4 - shape: 82, pattern: 29.3 = 74.09 
+ 5 - shape: 99, pattern: 48.12 = 91.37 (Dead) 
+ 6 - shape: 96, pattern: 38.41 = 87.36 (Dead) 
+ 7 - shape: 94, pattern: 35.31 = 85.2 (Dead) 
+ 8 - shape: 93, pattern: 37.29 = 84.64 (Dead) 
+ 9 - shape: 97, pattern: 37.09 = 88.01 (Dead) 
+ 10 - shape: 92, pattern: 53.68 = 86.25 (Dead) 
+ 11 - Cluster, May have 2 worms", 14, 64, 92
+D21, w1 & w2, True, True, 111, True, 14, 12, 14, 11, "1 - shape: 0, pattern: 45.75 = 6.86 
+ 2 - shape: 103, pattern: 37.12 = 93.12 (Dead) 
+ 3 - shape: 96, pattern: 36.46 = 87.07 (Dead) 
+ 4 - shape: 91, pattern: 36.83 = 82.87 (Dead) 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 91, pattern: 38.21 = 83.08 (Dead) 
+ 7 - shape: 93, pattern: 40.66 = 85.15 (Dead) 
+ 8 - shape: 100, pattern: 42.14 = 91.32 (Dead) 
+ 9 - shape: 92, pattern: 45.88 = 85.08 (Dead) 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 99, pattern: 36.2 = 89.58 (Dead) 
+ 12 - shape: 95, pattern: 37.94 = 86.44 (Dead) 
+ 13 - shape: 93, pattern: 48.81 = 86.37 (Dead) 
+ 14 - shape: 88, pattern: 38.18 = 80.53 (Dead)", 14, 85, 100
+D22, w1 & w2, True, True, 104, True, 9, 5, 14, 5, "1 - shape: 96, pattern: 35.66 = 86.95 (Dead) 
+ 2 - Cluster, May have 3 worms 
+ 3 - shape: 94, pattern: 36.11 = 85.32 (Dead) 
+ 4 - shape: 98, pattern: 36.9 = 88.83 (Dead) 
+ 5 - shape: 97, pattern: 40.92 = 88.59 (Dead) 
+ 6 - Cluster, May have 2 worms 
+ 7 - Cluster, May have 2 worms 
+ 8 - Cluster, May have 2 worms 
+ 9 - shape: 88, pattern: 40.27 = 80.84 (Dead)", 14, 35, 100
+D23, w1 & w2, True, True, 116, True, 11, 7, 12, 6, "1 - shape: 94, pattern: 45.52 = 86.73 (Dead) 
+ 2 - shape: 100, pattern: 32.44 = 89.87 (Dead) 
+ 3 - Cluster, May have 1 worms 
+ 4 - shape: 50, pattern: 43.95 = 49.09 
+ 5 - Cluster, May have 1 worms 
+ 6 - shape: 97, pattern: 78.94 = 94.29 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 96, pattern: 38.28 = 87.34 (Dead) 
+ 9 - shape: 94, pattern: 35.03 = 85.15 (Dead) 
+ 10 - shape: 99, pattern: 38.02 = 89.85 (Dead) 
+ 11 - Cluster, May have 1 worms", 13, 53, 92
+D24, False
+E01, w1 & w2, True, True, 98, True, 11, 8, 13, 4, "1 - shape: 92, pattern: 43.17 = 84.68 (Dead) 
+ 2 - shape: 66, pattern: 52.29 = 63.94 
+ 3 - shape: 11, pattern: 46.68 = 16.35 
+ 4 - shape: 69, pattern: 54.77 = 66.87 
+ 5 - shape: 60, pattern: 41.25 = 57.19 
+ 6 - Cluster, May have 2 worms 
+ 7 - shape: 91, pattern: 54.87 = 85.58 (Dead) 
+ 8 - shape: 84, pattern: 84.6 = 84.09 (Dead) 
+ 9 - Cluster, May have 2 worms 
+ 10 - Cluster, May have 1 worms 
+ 11 - shape: 94, pattern: 48.24 = 87.14 (Dead)", 15, 53, 86
+E02, w1 & w2, True, True, 93, True, 9, 6, 12, 4, "1 - shape: 99, pattern: 39.66 = 90.1 (Dead) 
+ 2 - shape: 94, pattern: 70.1 = 90.41 (Dead) 
+ 3 - shape: 94, pattern: 50.22 = 87.43 (Dead) 
+ 4 - shape: 75, pattern: 40.43 = 69.81 
+ 5 - Cluster, May have 2 worms 
+ 6 - shape: 98, pattern: 62.24 = 92.64 (Dead) 
+ 7 - shape: 55, pattern: 44.66 = 53.45 
+ 8 - Cluster, May have 1 worms 
+ 9 - Cluster, May have 3 worms", 15, 40, 80
+E03, w1 & w2, True, True, 76, True, 10, 6, 12, 3, "1 - shape: 91, pattern: 48.04 = 84.56 (Dead) 
+ 2 - Cluster, May have 1 worms 
+ 3 - shape: 80, pattern: 38.46 = 73.77 
+ 4 - Cluster, May have 2 worms 
+ 5 - shape: 51, pattern: 45.47 = 50.17 
+ 6 - shape: 85, pattern: 43.21 = 78.73 (Dead) 
+ 7 - Cluster, May have 2 worms 
+ 8 - shape: 79, pattern: 60.61 = 76.24 (Dead) 
+ 9 - Cluster, May have 1 worms 
+ 10 - shape: 41, pattern: 45.67 = 41.7", 14, 42, 85
+E04, w1 & w2, True, True, 96, True, 12, 8, 13, 6, "1 - shape: 81, pattern: 31.38 = 73.56 
+ 2 - Cluster, May have 1 worms 
+ 3 - Cluster, May have 1 worms 
+ 4 - Cluster, May have 1 worms 
+ 5 - shape: 85, pattern: 42.22 = 78.58 (Dead) 
+ 6 - shape: 35, pattern: 41.22 = 35.93 
+ 7 - shape: 89, pattern: 47.56 = 82.78 (Dead) 
+ 8 - shape: 89, pattern: 52.34 = 83.5 (Dead) 
+ 9 - shape: 101, pattern: 45.96 = 92.74 (Dead) 
+ 10 - shape: 89, pattern: 62.31 = 85.0 (Dead) 
+ 11 - Cluster, May have 2 worms 
+ 12 - shape: 81, pattern: 49.87 = 76.33 (Dead)", 15, 53, 86
